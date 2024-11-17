@@ -1,0 +1,35 @@
+1-
+    When : Sophia was created on 19 april 2015.
+    What : Sophia is an humanoid robot that can mimic human expressions 
+            and interact wth people in a human-like way.
+    Why : Hanson Robotics created Sophia to improve robotics and explore the field
+            of human-robot interaction
+    Who : Hanson Robotics is the company that created Sophia. 
+        David Hanson is the founder of Hanson Robotics. 
+        He created Sophia with the goal of developing social robots that can interact with people in human-like ways.
+        He has a PhD in interactive Arts and Engineering from the University of Texas. 
+
+2-
+
+    What is Artificial Intelligence ?
+    The term AI is usually used to describe algorithms that exhibit human-like intelligence, such as the ability to solve logical problems or understand languages.
+
+    What is a Robot?
+    A robot is a device that can perform pre-programmed tasks, such as moving a package or cleaning a room. In most cases, robots cannot adapt to their environment. They are designed for specific tasks in environments like a warehouse or a kitchen.
+
+    Key Difference:
+    AI is software, while robots are hardware. Sometimes, scientists try to blend the two.
+    This is the case with Sophia, as we will see later in the presentation.
+
+3- (without video support)
+
+    The main challenge is that human conversation isn't always precise or direct. 
+    Often, we use unsaid words or the wrong words, yet we still understand each other 
+    because of our emotional intelligence or because we know the other person.
+
+    For Sophia to speak with a human, she must understand emotions and be able to express her own. 
+    This is where the interaction between AI and robotics becomes necessary. 
+    Although AI is great for understanding speech and communication, robotics faces much greater challenges 
+    in identifying and replicating facial expressions.
+
+    In brief, emotions are the difficult factor.
