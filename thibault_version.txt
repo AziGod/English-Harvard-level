@@ -1,35 +1,60 @@
-1-
-    When : Sophia was created on 19 april 2015.
-    What : Sophia is an humanoid robot that can mimic human expressions 
-            and interact wth people in a human-like way.
-    Why : Hanson Robotics created Sophia to improve robotics and explore the field
-            of human-robot interaction
-    Who : Hanson Robotics is the company that created Sophia. 
-        David Hanson is the founder of Hanson Robotics. 
-        He created Sophia with the goal of developing social robots that can interact with people in human-like ways.
-        He has a PhD in interactive Arts and Engineering from the University of Texas. 
+Sophia, the Robot from Hanson Robotics
 
-2-
+1. A Brief Overview
+When: Sophia was created on April 19, 2015.
 
-    What is Artificial Intelligence ?
-    The term AI is usually used to describe algorithms that exhibit human-like intelligence, such as the ability to solve logical problems or understand languages.
+What: Sophia is a humanoid robot that can mimic human expressions and interact with people in a human-like way.
 
-    What is a Robot?
-    A robot is a device that can perform pre-programmed tasks, such as moving a package or cleaning a room. In most cases, robots cannot adapt to their environment. They are designed for specific tasks in environments like a warehouse or a kitchen.
+Why: Hanson Robotics created Sophia to advance robotics and explore the field of human-robot interaction.
 
-    Key Difference:
-    AI is software, while robots are hardware. Sometimes, scientists try to blend the two.
-    This is the case with Sophia, as we will see later in the presentation.
+Who: Hanson Robotics is the company behind Sophia.
+David Hanson, the founder of Hanson Robotics, created Sophia to develop social robots that interact with humans in a human-like manner. 
+He holds a PhD in Interactive Arts and Engineering from the University of Texas.
 
-3- (without video support)
+2. AI and Robotics Are Not the Same
+What is Artificial Intelligence?
+The term AI is used to describe algorithms that demonstrate human-like intelligence, such as solving logical problems or understanding languages.
 
-    The main challenge is that human conversation isn't always precise or direct. 
-    Often, we use unsaid words or the wrong words, yet we still understand each other 
-    because of our emotional intelligence or because we know the other person.
+What is a Robot?
+A robot is a machine that can perform pre-programmed tasks, such as moving a package or cleaning a room. In most cases, robots cannot adapt to their environment. 
+They are designed for specific tasks in environments like warehouses or kitchens.
 
-    For Sophia to speak with a human, she must understand emotions and be able to express her own. 
-    This is where the interaction between AI and robotics becomes necessary. 
-    Although AI is great for understanding speech and communication, robotics faces much greater challenges 
-    in identifying and replicating facial expressions.
+Key Difference:
+AI is software, while robots are hardware. Scientists sometimes combine the two, as is the case with Sophia, which we will examine further in the essay.
 
-    In brief, emotions are the difficult factor.
+3. Why Is Creating Speaking Humanoid Robots Difficult?
+Without Video Support
+The main challenge lies in the nature of human conversation. It is often imprecise and indirect. 
+We frequently use implied meanings or incorrect words, yet we understand each other because of emotional intelligence and shared context.
+
+For Sophia to engage in conversation with a human, she needs to comprehend emotions and express her own. This is where AI and robotics must work together. 
+AI excels in understanding speech and communication, but robotics faces significant challenges in recognizing and reproducing facial expressions.
+
+In summary, emotions represent the most significant difficulty.
+
+With Video Support
+The video does not address this question.
+
+3'. Why Did David Hanson Create Sophia?
+David Hanson's vision was that human-like robots could serve as platforms for developing AI, making it both smarter and more relevant in our world. 
+These robots could learn from people and the physical world while also communicating as works of art—a combination of technology and artistic creation.
+
+Sophia and robots like her were created to provoke important questions:
+
+What can these robots mean to us?
+Could they ever become sentient?
+Can we provide them with a "childhood" to learn and grow among us?
+Is it possible to form meaningful friendships and relationships with this emerging technology?
+Currently, we are far from having sentient robots, as AI today cannot achieve sentience.
+
+4. How Could We Improve Sophia?
+Sophia is a robot designed to advance research in AI by providing it with a physical body capable of interacting with the physical world. 
+Sophia has hands and legs, enabling her to walk and potentially pick up objects (this needs verification).
+
+We could improve Sophia by upgrading her AI software to enable sentience. To achieve this, we must enhance her ability to perceive, manipulate, and interact with objects around her. 
+Sophia provides an excellent platform for this kind of research. Upgrading her would involve using her as a base to develop new AI systems capable of sentience.
+
+5. What Could Be the Future Uses of Humanoid Robots?
+If we develop humanoid sentient robots, they could be utilized in social interaction roles or to provide companionship for isolated individuals.
+
+These robots would integrate seamlessly into society because their human-like appearance would make them less unsettling to interact with compared to machines with less familiar designs
