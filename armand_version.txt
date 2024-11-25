@@ -1,0 +1,21 @@
+2 - Difference Between AI and Robotics
+(https://www.youtube.com/watch?v=7QPl2i1zgog&list=PLqq4LnWs3olWzs_Wdt_r_ZzIJTitV1cQp)
+
+Robots are tools for research and developpment of AI and robotics, they are used for physical interactions whereas Ai
+are more used for processing tasks.
+
+3 - Why is it difficult to get a humanoid robot capable of speaking with a human ?
+It's not difficult.
+The question is why should we have humanoid robot instead of digital interactions.
+
+4 - How can we improve her ?
+Upgrade her AI and make her way of speaking and interacting more natural
+
+5 - Future uses in society ?
+Customers services ?
+
+
+
+
+
+
