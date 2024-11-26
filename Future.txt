@@ -1,0 +1,19 @@
+What could be the future implication of sentient humanoid robots ?
+
+Before answering to that question, lets reviewing today's robotic advancment, and the
+steps before we develop a sentient humanoid robot :
+
+    - Until now we have robots that can operate in defined environments to perform pre-programmed tasks. Most of the time these robots are on tracks or fitted with caterpillar tracks. 
+    - Recently, we have seen emerging quadruped robots, known as dog robots, which are fully operational.
+    - Bipedal robots are still in the development phase. They already exist but they aren't used in industries.
+    
+    - So we have to improve bipedal robots by making them capable of easily grasping objects, walking (first in known environments, then in unknown environments), maybe running, and even capable of accurately feeling objects. 
+    - Then, by giving them the hability to move and have senses, we could upgrade their AI to finally create sentient robots.
+
+So now we have our sentient robots. What can they do for us ?
+
+    - They could be used as domestic robots for cooking, cleaning and doing the laundry, just like a human can. They could also do gardening or do our groceries. So they could handle all our daily life tasks. 
+    - Or maybe they will do some of our jobs, like jobs that involve social tasks like receptionist or salespeople.  And depending on how many responsibilities we are willing to give to these robots, they could take on more responsible jobs.
+
+So, in a world where robots can do everything we can, with the same quality or even better, what would be the place of humans ?
+Will we become useless ? Will we become a sort of parasite for robots ? Will robots become a new form of live, more evolve than us ?     
