@@ -1,9 +1,4 @@
-Who is Sophia?
 
-	Sophia is a humanoid robot developed by Hanson Robotics,
-a company based in Hong Kong. Since her debut in 2016,
-she has become a global icon in the field of robotics and artificial intelligence.
-Sophia was created to make human-robot interactions as natural and empathetic as possible.
 
 Sophia’s Components
 
