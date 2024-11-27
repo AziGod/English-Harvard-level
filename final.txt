@@ -1,55 +1,63 @@
 Intro:
+//
 Good morning/afternoon, ladies and gentlemen.
 Let me start by introducing my coworkers and myself.
 I'm here with Thibault and Clément, and I'm Armand.
 We're going to present to you a humanoid robot called 'Sophia'.
-
+//
+**
 We've divided our presentation into 3 main parts:
-First, we'll be looking at the past, second the present and third the future.
+First, we'll be talk about the company : Hanson Robotics, second about Sophia and third the final goal.
+**
 
-
-Past:
+Company :
+::
 Hansen Robotics has released Sophia in 2015.
 They are a company based in Hong-Kong which create humanoid robots.
 Their first famous robot is called "Albert Einstein HUBO" created in 2005, since then
 a few has follow like Han, a robot specialized in facial expressions, or Diego, a robot made
 to simulate the movements and behavior of a human child.
-
+::
+//
 Their objective is to build these robots for the research and development towards robots and AI, they are mainly tools.
 Another aim of their activities is to be seen as a form of art to observe how humans react to those innovations.
 
 Sophia was created to make human-robot interactions as natural and empathetic as possible.
-
---------Present-------
-
+//
+Sophia :
+**
 she has become a global icon in the field of robotics and artificial intelligence.
 
 Sophia integrates several cutting-edge technologies that enable her to simulate human behavior:
-
-    //1. Physical structure and face:
+**
+    //1. Physical structure and face :
+::
    - Her skin is made from a patented material called Frubber ("flesh rubber"),
     this material permit to Sophia to have a facial expressions similar to the humans.
    - Her eyes are equipped with high-resolution cameras that track gaze
  	and detect the facial expressions of people she interacts with.
-
-    //2. Artificial Intelligence:
+::
+//
+    //2. Artificial Intelligence :
    - Sophia is powered by advanced AI that uses natural language
     processing to communicate to the human.
    - She learns continuously through machine learning algorithms,
 	improving her responses and interactions over time.
-
-    //3. Sensors and movement:
+//
+**
+    //3. Sensors and movement :
    - Sophia is fitted with sensors she can detect sounds, and recognize motion.
    - Her motorized head, arms, and hands allow her to move smoothly and
     give us the illusion to talk with a real human.
-
+**
+::
 Sophia operates through a combination of cloud-based AI and onboard software:
    - When someone speaks to Sophia, her sensors pick up audio and visual data
 	These inputs are sent to a remote server, where AI algorithms process the information.
-
    - Sophia can formulate context-aware answers by combining pre-programmed databases with generative AI models.
 	This allows her to engage in conversations that feel natural and dynamic.
-
+::
+//
 Sophia was designed with multiple purposes in mind:
     //1. Education and awareness:
      She participates in confersences, interviews, and panels,
@@ -59,28 +67,42 @@ Sophia was designed with multiple purposes in mind:
      Sophia is a platform for exploring how humans and machines can connect on a deeper level.
     //3. Research and development:
      Sophia serves as a testing ground for advancing technologies in AI and human-robot interaction.
-
---------Future-------
-
-
+//
+**
+all of these abilities are created with the purpose of making robots sentient being,
+the next step towards this goal is the developpement of feelling and emotion.
+**
+Final goal :
+::
 What could be the future implication of sentient humanoid robots ?
 
 Before answering to that question, lets reviewing today's robotic advancment, and the
 steps before we develop a sentient humanoid robot :
-
-    - Until now we have robots that can operate in defined environments to perform pre-programmed tasks. Most of the time these robots are on tracks or fitted with caterpillar tracks. 
+::
+//
+    - Until now we have robots that can operate in defined environments to perform pre-programmed tasks.
+        Most of the time these robots are on tracks or fitted with caterpillar tracks. 
     - Recently, we have seen emerging quadruped robots, known as dog robots, which are fully operational.
     - Bipedal robots are still in the development phase. They already exist but they aren't used in industries.
-    
-    - So we have to improve bipedal robots by making them capable of easily grasping objects, walking (first in known environments, then in unknown environments), maybe running, and even capable of accurately feeling objects. 
-    - Then, by giving them the hability to move and have senses, we could upgrade their AI to finally create sentient robots.
+//
+**  
+    - So we have to improve bipedal robots by making them capable of easily grasping objects, walking (first in known environments,
+        then in unknown environments), maybe running, and even capable of accurately feeling objects. 
+    - Then, by giving them the ability to move and have senses, we could upgrade their AI to finally create sentient robots.
 
 So now we have our sentient robots. What can they do for us ?
-
-    - They could be used as domestic robots for cooking, cleaning and doing the laundry, just like a human can. They could also do gardening or do our groceries. So they could handle all our daily life tasks. 
-    - Or maybe they will do some of our jobs, like jobs that involve social tasks like receptionist or salespeople.  And depending on how many responsibilities we are willing to give to these robots, they could take on more responsible jobs.
-
+**
+::
+    - They could be used as domestic robots for cooking, cleaning and doing the laundry, just like a human can.
+        They could also do gardening or do our groceries. So they could handle all our daily life tasks. 
+    - Or maybe they will do some of our jobs, like jobs that involve social tasks like receptionist or salespeople.
+        And depending on how many responsibilities we are willing to give to these robots, they could take on more responsible jobs.
+::
+//
 So, in a world where robots can do everything we can, with the same quality or even better, what would be the place of humans ?
 Will we become useless ? Will we become a sort of parasite for robots ? Will robots become a new form of live, more evolved than us ?     
-
-Well, this brings me to the ends of our presentation. I'll leave you to think about all the possible implications that humanoid robots could have.
+//
+**
+Well, this brings us to the ends of our presentation.
+I'll leave you to think about all the possible implications that humanoid robots could have.
+**
